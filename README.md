@@ -1,2 +1,2 @@
 # zsh-sdkman
-A sdkman plugin for zsh.
+A zsh plugin for [sdkman-cli](https://github.com/sdkman/sdkman-cli).
